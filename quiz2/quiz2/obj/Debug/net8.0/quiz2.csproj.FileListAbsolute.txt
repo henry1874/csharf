@@ -1,0 +1,15 @@
+D:\Labiste\csharf\quiz2\quiz2\bin\Debug\net8.0\quiz2.exe
+D:\Labiste\csharf\quiz2\quiz2\bin\Debug\net8.0\quiz2.deps.json
+D:\Labiste\csharf\quiz2\quiz2\bin\Debug\net8.0\quiz2.runtimeconfig.json
+D:\Labiste\csharf\quiz2\quiz2\bin\Debug\net8.0\quiz2.dll
+D:\Labiste\csharf\quiz2\quiz2\bin\Debug\net8.0\quiz2.pdb
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.AssemblyInfoInputs.cache
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.AssemblyInfo.cs
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.csproj.CoreCompileInputs.cache
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.sourcelink.json
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.dll
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\refint\quiz2.dll
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.pdb
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\quiz2.genruntimeconfig.cache
+D:\Labiste\csharf\quiz2\quiz2\obj\Debug\net8.0\ref\quiz2.dll
